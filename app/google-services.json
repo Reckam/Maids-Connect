@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "576193769500",
+    "project_id": "maidsconnect-6b8f5",
+    "storage_bucket": "maidsconnect-6b8f5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576193769500:android:8af190b9bc123385dbafd9",
+        "android_client_info": {
+          "package_name": "com.reckam.maidsconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1CBSYri8ZAIGCr75l9M3STf8QYOSWmks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
